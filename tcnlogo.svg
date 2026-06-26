@@ -1,0 +1,51 @@
+<svg width="100%" viewBox="0 0 680 520" role="img" xmlns="http://www.w3.org/2000/svg" style="">
+  <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Tech Care Nepal Logo</title>
+  <desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">TCN logo with red T, blue C, dark navy N letterforms and circuit detail, with TECH CARE NEPAL text below</desc>
+
+  
+
+  <!-- T — red, top horizontal bar + vertical stem with circuit traces -->
+  <!-- Top horizontal bar of T -->
+  <rect x="200" y="60" width="280" height="44" rx="6" style="fill:rgb(212, 43, 43);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Vertical stem of T -->
+  <rect x="294" y="60" width="44" height="200" rx="4" style="fill:rgb(212, 43, 43);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Circuit traces on T stem (red outline lines inside stem area) -->
+  <!-- Small circle node top-left of stem -->
+  <circle cx="294" cy="95" r="6" fill="none" stroke="#fff" stroke-width="3" style="fill:none;stroke:rgb(255, 255, 255);color:rgb(255, 255, 255);stroke-width:3px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Horizontal trace left -->
+  <line x1="240" y1="95" x2="288" y2="95" fill="none" stroke="#fff" stroke-width="3" style="fill:none;stroke:rgb(255, 255, 255);color:rgb(255, 255, 255);stroke-width:3px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Vertical trace down -->
+  <line x1="316" y1="115" x2="316" y2="165" fill="none" stroke="#fff" stroke-width="3" style="fill:none;stroke:rgb(255, 255, 255);color:rgb(255, 255, 255);stroke-width:3px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Small circle node on trace -->
+  <circle cx="316" cy="140" r="5" fill="none" stroke="#fff" stroke-width="3" style="fill:none;stroke:rgb(255, 255, 255);color:rgb(255, 255, 255);stroke-width:3px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Two short vertical lines at bottom of stem (like PCB traces) -->
+  <line x1="305" y1="175" x2="305" y2="255" fill="none" stroke="#fff" stroke-width="3" style="fill:none;stroke:rgb(255, 255, 255);color:rgb(255, 255, 255);stroke-width:3px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <line x1="325" y1="180" x2="325" y2="255" fill="none" stroke="#fff" stroke-width="3" style="fill:none;stroke:rgb(255, 255, 255);color:rgb(255, 255, 255);stroke-width:3px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- C — blue, thick bracket shape -->
+  <!-- Top horizontal of C -->
+  <rect x="316" y="60" width="140" height="44" rx="6" style="fill:rgb(26, 60, 143);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Right vertical of C -->
+  <rect x="412" y="60" width="44" height="260" rx="4" style="fill:rgb(26, 60, 143);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Bottom horizontal of C -->
+  <rect x="316" y="276" width="140" height="44" rx="6" style="fill:rgb(26, 60, 143);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- N — dark navy, sits inside the C bracket -->
+  <text x="348" y="268" font-family="Arial, sans-serif" font-weight="900" font-size="140" fill="#0D1C4E" style="fill:rgb(13, 28, 78);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Arial, sans-serif;font-size:140px;font-weight:900;text-anchor:start;dominant-baseline:auto">N</text>
+
+  <!-- Wordmark: TECH CARE in red, NEPAL in navy with side lines -->
+  <text x="340" y="380" text-anchor="middle" style="fill:rgb(212, 43, 43);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Arial, sans-serif;font-size:52px;font-weight:900;text-anchor:middle;dominant-baseline:auto">TECH</text>
+  <text x="340" y="380" text-anchor="start" dx="0" style="fill:rgb(26, 60, 143);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Arial, sans-serif;font-size:52px;font-weight:900;text-anchor:start;dominant-baseline:auto"> </text>
+
+  <!-- TECH  CARE on same line, centered -->
+  <text x="340" y="378" text-anchor="middle" font-family="Arial, sans-serif" font-weight="900" font-size="52" letter-spacing="6" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Arial, sans-serif;font-size:52px;font-weight:900;text-anchor:middle;dominant-baseline:auto">
+    <tspan fill="#D42B2B" style="fill:rgb(212, 43, 43);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Arial, sans-serif;font-size:52px;font-weight:900;text-anchor:middle;dominant-baseline:auto">TECH </tspan><tspan fill="#1A3C8F" style="fill:rgb(26, 60, 143);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Arial, sans-serif;font-size:52px;font-weight:900;text-anchor:middle;dominant-baseline:auto">CARE</tspan>
+  </text>
+
+  <!-- NEPAL with side dashes -->
+  <line x1="170" y1="418" x2="248" y2="418" style="fill:rgb(0, 0, 0);stroke:rgb(13, 28, 78);color:rgb(255, 255, 255);stroke-width:3px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="340" y="428" text-anchor="middle" style="fill:rgb(13, 28, 78);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Arial, sans-serif;font-size:26px;font-weight:700;text-anchor:middle;dominant-baseline:auto">NEPAL</text>
+  <line x1="432" y1="418" x2="510" y2="418" style="fill:rgb(0, 0, 0);stroke:rgb(13, 28, 78);color:rgb(255, 255, 255);stroke-width:3px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+</svg>
